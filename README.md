@@ -10,6 +10,10 @@ This is a personal Anki server, which you can sync against instead of AnkiWeb.
 
 [![](https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg)](https://cloud.sealos.io/?openapp=system-template%3FtemplateName%3Danki-sync-server)
 
+## Deploying on ClawCloudRun
+
+[![](https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/Run-on-ClawCloud.svg)](https://template.run.claw.cloud/?referralCode=97A72IAPCMPQ&openapp=system-fastdeploy%3FtemplateName%3Danki-sync-server)
+
 ## Deploying with Docker
 
 ```bash
